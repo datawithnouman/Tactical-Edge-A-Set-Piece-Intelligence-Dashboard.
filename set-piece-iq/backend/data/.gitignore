@@ -1,0 +1,2 @@
+# Ignore generated parquet datasets by default.
+set_piece_data.parquet
